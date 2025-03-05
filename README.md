@@ -1,1 +1,3 @@
-# Projeto Base com React + Vite + Tailwind CSS
+# ResumifAI
+
+A automated way to resumify YouTube Videos using AI
