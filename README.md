@@ -1,1 +1,1 @@
-# Projeto Base com React + Vite + Tailwind CSS
+# Project React + Vite + Tailwind CSS
